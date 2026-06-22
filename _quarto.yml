@@ -8,6 +8,7 @@ book:
   date: "6/22/2026"
   chapters:
     - index.qmd
+    - alcanca_document.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
