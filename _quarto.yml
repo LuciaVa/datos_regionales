@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Preparación datos de Indicadores Regionales"
+  author: "Lucía V. - MigraMar"
+  date: "6/22/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+
+editor: visual
+
