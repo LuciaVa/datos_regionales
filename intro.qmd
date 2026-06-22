@@ -9,3 +9,6 @@ See @knuth84 for additional discussion of literate programming.
 ```
 
 hola
+## Nueva sección
+
+Esta es una nueva sección
