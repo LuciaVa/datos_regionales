@@ -3,29 +3,44 @@ project:
   output-dir: docs
 
 website:
+  page-navigation: true
+  title: "Guía de cálculo de indicadores y categoría de estado y tendencias poblacionales."
+
   sidebar:
+    title: "Guía de cálculo de indicadores y categoría de estado y tendencias poblacionales."
+    logo: ./images/logo_migramar.png
+    pinned: true
+    align: center
+
     style: "docked"
     search: true
+    collapse-level: 1
     contents:
       - text: "Alcance del documento"
         href: index.qmd
-  title: "Guía de cálculo de indicadores y categoría de estado y tendencias poblacionales."
-  author: "Lucía V. - MigraMar"
-  date: "6/24/2026"
-  chapters:
-    - intro.qmd
-    - part: "Formato archivos"
-      chapters:
-        - formato_datos_crudos.qmd      
-        - formato_datos_calculados.qmd
-    - calculo_indicadores.qmd
-    - linea_base.qmd
-    - clasificar_indicadores.qmd
-    - tendencia_poblacional.qmd
-    - sistema_envio.qmd
-    - anexos.qmd
-    - summary.qmd
-    - references.qmd
+      - intro.qmd
+      - section: "Formato archivos"
+        contents:
+          - text: "formato crudos"
+            href: formato_datos_crudos.qmd      
+          - text: "formato calculados"
+            href: formato_datos_calculados.qmd
+      - text: "Calculo indicadores"
+        href: calculo_indicadores.qmd
+      - text: "Linea base"
+        href: linea_base.qmd
+      - text: "a"
+        href: clasificar_indicadores.qmd
+      - text: "b"
+        href: tendencia_poblacional.qmd
+      - text: "c"
+        href: sistema_envio.qmd
+      - text: "d"
+        href: anexos.qmd
+      - text: "e"
+        href: summary.qmd
+      - text: "f"
+        href: references.qmd
 
 bibliography: references.bib
 
