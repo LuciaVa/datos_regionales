@@ -1,0 +1,39 @@
+---
+title: "Formato datos calculados"
+---
+
+## b. Formato si entrega los indicadores calculados
+
+Todo archivo de datos debe entregarse en formato .csv separado por punto y coma de preferencia, o en formato Excel alternativamente, y debe cumplir con estos requisitos (Se anexa una plantilla de Excel datos calculados):
+
+1.    **Archivo de datos .csv o xlxs de indicadores calculados bajo la metodología que** establecen el Plan y usando las guías de este documento. Cada archivo por indicador por sitio estará compuesto de dos únicas líneas de datos (ver sección \# para más detalles de la estructura del archivo y cómo obtenerla, así como los valores asociados), actualizados y ordenados con las siguientes columnas:
+
+a.    Poner columnas definidas con GFW
+
+b.    …
+
+Pendiente agregar screenshot de columnas
+
+Descripción de Columnas que debe traer el documento
+
+2.    **Metadatos del propietario, institución y proyecto** generador de los datos en las siguientes columnas:
+
+a.    Nombre propietario datos o PI
+
+b.    Nombre institución propietaria de datos
+
+c.     ORCID del propietario de datos o PI
+
+d.    Permiso de investigación
+
+e.    Donante
+
+f.      Restricción o estado de uso de datos (embargo, publicados, etc)
+
+g.    Si están publicados, brindar el DOI
+
+3.    **Documentación asociada** (protocolos de campo asociados, entre otros).
+
+4.    **Carpera de logos** de dueños o a quien se debe dar créditos de ellos, debe ser la misma afiliación con la que se firmó el MoU.
+
+5.    **Archivo espacial (.shp)** de su sitio de muestreo, nombrado con el mismo nombre con el que se reporta en la columna “area” de los datos

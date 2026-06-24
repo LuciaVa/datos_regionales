@@ -1,0 +1,10 @@
+# Cálculo indicadores
+
+Cada indicador se calculará por año y por sitio según se define en el Plan de Monitoreo. Dependiendo de las características del indicador y de la distribución de los datos, se deberán calcular distintos tipos de métricas anuales.
+
+
+
+Tabla de 2 columnas con lista de indicadores con promedio versus mediana. Y su fórmula completa.
+
+
+Chunk de código

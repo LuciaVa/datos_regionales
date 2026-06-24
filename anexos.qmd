@@ -1,0 +1,11 @@
+---
+title: "Anexos"
+---
+
+### Anexo 1. Plantilla de datos calculados
+
+### Anexo 2. Plantilla de datos crudos
+
+### Anexo 3. Rmd para cálculos: línea base, percentiles, indicadores
+
+poner hipervínculos (estará en GitHub)

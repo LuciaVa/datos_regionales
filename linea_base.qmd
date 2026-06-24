@@ -1,0 +1,16 @@
+---
+title: "Definición línea base"
+---
+
+La línea base corresponde al conjunto de datos de referencia utilizado para caracterizar la variación natural de un indicador durante un período determinado. En este Plan de Monitoreo, la línea base se construye utilizando de referencia los primeros 5 o 10 años del monitoreo según el indicador de la siguiente forma:
+
+
+# Identificar años necesarios para establecer su línea base
+
+Tabla de 2 columnas con lista de indicadores con base de 5 años, y aquellos con base de 10 años.
+
+
+# Definir el Ámbito de Variación Permisible
+
+
+El Ámbito de Variación Permisible (AVP) de definirá usando los valores de los percentiles X, Y y Z de la línea base. Una vez definidos estos valores de línea base, los valores anuales del indicador se compararán con estos para definir su categoría (bueno, medio, malo, muy malo)

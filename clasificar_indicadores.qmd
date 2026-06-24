@@ -1,0 +1,13 @@
+---
+title: "Clasificación indicadores"
+---
+
+La categorización de los indicadores respecto a la línea base se hace con base en el AVP. Las siguientes tablas resumen la manera de clasificar e interpretar los indicadores con base en el AVP.
+
+Tabla A de categorias de AVP según percentil - Aplicar para X, Y, Z.. indicadores
+
+Tabla B de categorias de AVP según percentil - Aplicar para A, B,C, .. indicadores
+
+La categorización se realizará de forma automática en la plataforma de GFW con base en el valor anual del indicador respecto a la línea base. Sin embargo, a continuación, se provee el código para que usted pueda obtener una previsualización y realizar la interpretación de previo y como respaldo en caso de que la plataforma muestre algo distinto.
+
+Chunk de código señalando que como Anexo está el código completo.

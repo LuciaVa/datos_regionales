@@ -1,15 +1,29 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
-book:
-  title: "Preparación datos de Indicadores Regionales"
+website:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Alcance del documento"
+        href: index.qmd
+  title: "Guía de cálculo de indicadores y categoría de estado y tendencias poblacionales."
   author: "Lucía V. - MigraMar"
-  date: "6/22/2026"
+  date: "6/24/2026"
   chapters:
-    - index.qmd
-    - alcanca_document.qmd
     - intro.qmd
+    - part: "Formato archivos"
+      chapters:
+        - formato_datos_crudos.qmd      
+        - formato_datos_calculados.qmd
+    - calculo_indicadores.qmd
+    - linea_base.qmd
+    - clasificar_indicadores.qmd
+    - tendencia_poblacional.qmd
+    - sistema_envio.qmd
+    - anexos.qmd
     - summary.qmd
     - references.qmd
 

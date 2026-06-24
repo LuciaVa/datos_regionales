@@ -1,0 +1,6 @@
+# Formato archivo de datos
+
+A continuación, se presentan los requerimientos mínimos estructurales y de vocabulario requerido previo a aplicar los cálculos. Mantener este estándar a largo plazo es esencial para una transferencia eficiente de datos y que estos sean integrables a la plataforma regional sin perder el origen, o autoría de los datos y que de esta forma se acrediten correctamente en la plataforma.
+
+Si usted va a brindar sus datos ya calculados porque prefiere no compartir datos crudos, vaya a la sección 1b y siga el procedimiento a partir de esta. Si no, lea la siguiente sección.
+
