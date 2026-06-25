@@ -1,1 +1,19 @@
+---
+title: "Manual de cálculo y preparación de indicadores regionales"
+subtitle: "Guía paso a paso para las personas proveedoras de datos" 
+date: last-modified
+author: "MigraMar"
+slug: index
+---
 
+Estado del documento: **Borrador** \| En revisión \| Aprobado
+
+Elaborado por: Lucía Vargas-Araya - Gestora de Datos, MigraMar
+
+Versión 1 - 24 Junio 2026
+
+## Bienvenida
+
+Siga los pasos de las siguientes secciones para comprender el proceso de preparación de indicadores regionales del Plan Regional de Monitoreo de Especies del Pacífico Este Tropical para su integración y visualización en el Portal Marine Manager de Global Fishing Watch.
+
+Poner fotos de la portada del plan y del output (screenshots de Marine Manager).

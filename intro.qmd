@@ -1,9 +1,3 @@
-Estado del documento: **Borrador** \| En revisión \| Aprobado
-
-Elaborado por: Lucía Vargas-Araya - Gestora de Datos, MigraMar
-
-Versión 1 - 24 Junio 2026
-
 # Alcance del documento
 
 ## **¿Qué está dentro y fuera del alcance de este manual?**
@@ -30,13 +24,9 @@ Análisis de tendencia del indicador (GAMM) – solo si aplica
 
 Interpretación final
 
-
 El presente documento se limita a guiar a los generadores de datos paso a paso para:
 
-  **(1)** Preparar los datos en el formato inicial necesario
-  **(2)** Calcular los indicadores según la metodología del Plan
-  **(3)** Preparar los datos asociados a la forma requerida para la plataforma de visualización Marine Manager 
-  **(4)** Pasos para entregar los datos.
+**(1)** Preparar los datos en el formato inicial necesario **(2)** Calcular los indicadores según la metodología del Plan **(3)** Preparar los datos asociados a la forma requerida para la plataforma de visualización Marine Manager **(4)** Pasos para entregar los datos.
 
 **Nota importante:** Se encuentra fuera del alance de este documento, revisar la calidad y validez de sus datos y este documento asume que los colectores de datos y responsables de los indicadores deben velar por el cumplimiento estandarizado y riguroso de las metodologías de monitoreo establecidas en el Plan.
 
@@ -56,21 +46,19 @@ El manual es un instructivo paso a paso con texto y con secciones de código com
 
 Los pasos por seguir dependerán de su decisión de si comparte datos crudos (y depurados) o si va a brindar los datos de los indicadores ya calculados.
 
-En cualquier cosa, debe revisar las guías de formato de los archivos de datos. Una vez cumplidos los formatos, debería poder usar la guía de cálculos de indicadores sin problemas. 
+En cualquier cosa, debe revisar las guías de formato de los archivos de datos. Una vez cumplidos los formatos, debería poder usar la guía de cálculos de indicadores sin problemas.
 
 En las secciones que guían cálculos, se presentan secciones (chunks) de código de R para mostrar el procedimiento de forma preliminar. Sin embargo, adicionalmente, en Anexos encontrará el código completo como un archivo independiente para todo el proceso de cálculos.
 
-
 Además, en los Anexos encontrará como archivos descargables las plantillas de archivo de datos crudos o calculados, y el código de análisis s para que pueda utilizarlos con sus propios datos.
-
 
 **Este documento se estructura en siete secciones de la siguiente forma:**
 
 1.    Instrucciones de formato inicial mínimo requerido de los datos.
 
-   a.    Formato de datos crudos depurados.
+a.    Formato de datos crudos depurados.
 
-   b.    Formato de datos de indicadores ya calculados.
+b.    Formato de datos de indicadores ya calculados.
 
 2.    Guía de cálculo de indicadores
 
