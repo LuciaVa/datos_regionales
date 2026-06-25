@@ -1,35 +1,5 @@
 [
   {
-    "objectID": "clasificar_indicadores.html",
-    "href": "clasificar_indicadores.html",
-    "title": "Clasificación indicadores",
-    "section": "",
-    "text": "La categorización de los indicadores respecto a la línea base se hace con base en el AVP. Las siguientes tablas resumen la manera de clasificar e interpretar los indicadores con base en el AVP.\nTabla A de categorias de AVP según percentil - Aplicar para X, Y, Z.. indicadores\nTabla B de categorias de AVP según percentil - Aplicar para A, B,C, .. indicadores\nLa categorización se realizará de forma automática en la plataforma de GFW con base en el valor anual del indicador respecto a la línea base. Sin embargo, a continuación, se provee el código para que usted pueda obtener una previsualización y realizar la interpretación de previo y como respaldo en caso de que la plataforma muestre algo distinto.\nChunk de código señalando que como Anexo está el código completo.",
-    "crumbs": [
-      "a"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "References",
-    "crumbs": [
-      "f"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "e"
-    ]
-  },
-  {
     "objectID": "sistema_envio.html",
     "href": "sistema_envio.html",
     "title": "Sistema de envío de datos",
@@ -40,14 +10,21 @@
     ]
   },
   {
-    "objectID": "calculo_indicadores.html",
-    "href": "calculo_indicadores.html",
-    "title": "Cálculo indicadores",
+    "objectID": "linea_base.html",
+    "href": "linea_base.html",
+    "title": "Definición línea base",
     "section": "",
-    "text": "Cálculo indicadores\nCada indicador se calculará por año y por sitio según se define en el Plan de Monitoreo. Dependiendo de las características del indicador y de la distribución de los datos, se deberán calcular distintos tipos de métricas anuales.\nTabla de 2 columnas con lista de indicadores con promedio versus mediana. Y su fórmula completa.\nChunk de código",
+    "text": "La línea base corresponde al conjunto de datos de referencia utilizado para caracterizar la variación natural de un indicador durante un período determinado. En este Plan de Monitoreo, la línea base se construye utilizando de referencia los primeros 5 o 10 años del monitoreo según el indicador de la siguiente forma:\n\nIdentificar años necesarios para establecer su línea base\nTabla de 2 columnas con lista de indicadores con base de 5 años, y aquellos con base de 10 años.\n\n\nDefinir el Ámbito de Variación Permisible\nEl Ámbito de Variación Permisible (AVP) de definirá usando los valores de los percentiles X, Y y Z de la línea base. Una vez definidos estos valores de línea base, los valores anuales del indicador se compararán con estos para definir su categoría (bueno, medio, malo, muy malo)",
     "crumbs": [
-      "Calculo indicadores"
+      "Linea base"
     ]
+  },
+  {
+    "objectID": "instrucciones_formato.html",
+    "href": "instrucciones_formato.html",
+    "title": "Formato archivo de datos",
+    "section": "",
+    "text": "Formato archivo de datos\nA continuación, se presentan los requerimientos mínimos estructurales y de vocabulario requerido previo a aplicar los cálculos. Mantener este estándar a largo plazo es esencial para una transferencia eficiente de datos y que estos sean integrables a la plataforma regional sin perder el origen, o autoría de los datos y que de esta forma se acrediten correctamente en la plataforma.\nSi usted va a brindar sus datos ya calculados porque prefiere no compartir datos crudos, vaya a la sección 1b y siga el procedimiento a partir de esta. Si no, lea la siguiente sección."
   },
   {
     "objectID": "formato_datos_crudos.html",
@@ -72,13 +49,55 @@
     ]
   },
   {
-    "objectID": "linea_base.html",
-    "href": "linea_base.html",
-    "title": "Definición línea base",
+    "objectID": "clasificar_indicadores.html",
+    "href": "clasificar_indicadores.html",
+    "title": "Clasificación indicadores",
     "section": "",
-    "text": "La línea base corresponde al conjunto de datos de referencia utilizado para caracterizar la variación natural de un indicador durante un período determinado. En este Plan de Monitoreo, la línea base se construye utilizando de referencia los primeros 5 o 10 años del monitoreo según el indicador de la siguiente forma:\n\nIdentificar años necesarios para establecer su línea base\nTabla de 2 columnas con lista de indicadores con base de 5 años, y aquellos con base de 10 años.\n\n\nDefinir el Ámbito de Variación Permisible\nEl Ámbito de Variación Permisible (AVP) de definirá usando los valores de los percentiles X, Y y Z de la línea base. Una vez definidos estos valores de línea base, los valores anuales del indicador se compararán con estos para definir su categoría (bueno, medio, malo, muy malo)",
+    "text": "La categorización de los indicadores respecto a la línea base se hace con base en el AVP. Las siguientes tablas resumen la manera de clasificar e interpretar los indicadores con base en el AVP.\nTabla A de categorias de AVP según percentil - Aplicar para X, Y, Z.. indicadores\nTabla B de categorias de AVP según percentil - Aplicar para A, B,C, .. indicadores\nLa categorización se realizará de forma automática en la plataforma de GFW con base en el valor anual del indicador respecto a la línea base. Sin embargo, a continuación, se provee el código para que usted pueda obtener una previsualización y realizar la interpretación de previo y como respaldo en caso de que la plataforma muestre algo distinto.\nChunk de código señalando que como Anexo está el código completo.",
     "crumbs": [
-      "Linea base"
+      "a"
+    ]
+  },
+  {
+    "objectID": "anexos.html",
+    "href": "anexos.html",
+    "title": "Anexos",
+    "section": "",
+    "text": "Anexo 1. Plantilla de datos calculados\n\n\nAnexo 2. Plantilla de datos crudos\n\n\nAnexo 3. Rmd para cálculos: línea base, percentiles, indicadores\nponer hipervínculos (estará en GitHub)",
+    "crumbs": [
+      "d"
+    ]
+  },
+  {
+    "objectID": "calculo_indicadores.html",
+    "href": "calculo_indicadores.html",
+    "title": "Cálculo indicadores",
+    "section": "",
+    "text": "Cálculo indicadores\nCada indicador se calculará por año y por sitio según se define en el Plan de Monitoreo. Dependiendo de las características del indicador y de la distribución de los datos, se deberán calcular distintos tipos de métricas anuales.\nTabla de 2 columnas con lista de indicadores con promedio versus mediana. Y su fórmula completa.\nChunk de código",
+    "crumbs": [
+      "Calculo indicadores"
+    ]
+  },
+  {
+    "objectID": "formato_datos_calculados.html",
+    "href": "formato_datos_calculados.html",
+    "title": "Formato datos calculados",
+    "section": "",
+    "text": "Todo archivo de datos debe entregarse en formato .csv separado por punto y coma de preferencia, o en formato Excel alternativamente, y debe cumplir con estos requisitos (Se anexa una plantilla de Excel datos calculados):\n1.    Archivo de datos .csv o xlxs de indicadores calculados bajo la metodología que establecen el Plan y usando las guías de este documento. Cada archivo por indicador por sitio estará compuesto de dos únicas líneas de datos (ver sección # para más detalles de la estructura del archivo y cómo obtenerla, así como los valores asociados), actualizados y ordenados con las siguientes columnas:\na.    Poner columnas definidas con GFW\nb.    …\nPendiente agregar screenshot de columnas\nDescripción de Columnas que debe traer el documento\n2.    Metadatos del propietario, institución y proyecto generador de los datos en las siguientes columnas:\na.    Nombre propietario datos o PI\nb.    Nombre institución propietaria de datos\nc.     ORCID del propietario de datos o PI\nd.    Permiso de investigación\ne.    Donante\nf.      Restricción o estado de uso de datos (embargo, publicados, etc)\ng.    Si están publicados, brindar el DOI\n3.    Documentación asociada (protocolos de campo asociados, entre otros).\n4.    Carpera de logos de dueños o a quien se debe dar créditos de ellos, debe ser la misma afiliación con la que se firmó el MoU.\n5.    Archivo espacial (.shp) de su sitio de muestreo, nombrado con el mismo nombre con el que se reporta en la columna “area” de los datos",
+    "crumbs": [
+      "Formato archivos",
+      "formato calculados"
+    ]
+  },
+  {
+    "objectID": "formato_datos_calculados.html#b.-formato-si-entrega-los-indicadores-calculados",
+    "href": "formato_datos_calculados.html#b.-formato-si-entrega-los-indicadores-calculados",
+    "title": "Formato datos calculados",
+    "section": "",
+    "text": "Todo archivo de datos debe entregarse en formato .csv separado por punto y coma de preferencia, o en formato Excel alternativamente, y debe cumplir con estos requisitos (Se anexa una plantilla de Excel datos calculados):\n1.    Archivo de datos .csv o xlxs de indicadores calculados bajo la metodología que establecen el Plan y usando las guías de este documento. Cada archivo por indicador por sitio estará compuesto de dos únicas líneas de datos (ver sección # para más detalles de la estructura del archivo y cómo obtenerla, así como los valores asociados), actualizados y ordenados con las siguientes columnas:\na.    Poner columnas definidas con GFW\nb.    …\nPendiente agregar screenshot de columnas\nDescripción de Columnas que debe traer el documento\n2.    Metadatos del propietario, institución y proyecto generador de los datos en las siguientes columnas:\na.    Nombre propietario datos o PI\nb.    Nombre institución propietaria de datos\nc.     ORCID del propietario de datos o PI\nd.    Permiso de investigación\ne.    Donante\nf.      Restricción o estado de uso de datos (embargo, publicados, etc)\ng.    Si están publicados, brindar el DOI\n3.    Documentación asociada (protocolos de campo asociados, entre otros).\n4.    Carpera de logos de dueños o a quien se debe dar créditos de ellos, debe ser la misma afiliación con la que se firmó el MoU.\n5.    Archivo espacial (.shp) de su sitio de muestreo, nombrado con el mismo nombre con el que se reporta en la columna “area” de los datos",
+    "crumbs": [
+      "Formato archivos",
+      "formato calculados"
     ]
   },
   {
@@ -122,42 +141,23 @@
     ]
   },
   {
-    "objectID": "anexos.html",
-    "href": "anexos.html",
-    "title": "Anexos",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
     "section": "",
-    "text": "Anexo 1. Plantilla de datos calculados\n\n\nAnexo 2. Plantilla de datos crudos\n\n\nAnexo 3. Rmd para cálculos: línea base, percentiles, indicadores\nponer hipervínculos (estará en GitHub)",
+    "text": "References",
     "crumbs": [
-      "d"
+      "f"
     ]
   },
   {
-    "objectID": "instrucciones_formato.html",
-    "href": "instrucciones_formato.html",
-    "title": "Formato archivo de datos",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
     "section": "",
-    "text": "Formato archivo de datos\nA continuación, se presentan los requerimientos mínimos estructurales y de vocabulario requerido previo a aplicar los cálculos. Mantener este estándar a largo plazo es esencial para una transferencia eficiente de datos y que estos sean integrables a la plataforma regional sin perder el origen, o autoría de los datos y que de esta forma se acrediten correctamente en la plataforma.\nSi usted va a brindar sus datos ya calculados porque prefiere no compartir datos crudos, vaya a la sección 1b y siga el procedimiento a partir de esta. Si no, lea la siguiente sección."
-  },
-  {
-    "objectID": "formato_datos_calculados.html",
-    "href": "formato_datos_calculados.html",
-    "title": "Formato datos calculados",
-    "section": "",
-    "text": "Todo archivo de datos debe entregarse en formato .csv separado por punto y coma de preferencia, o en formato Excel alternativamente, y debe cumplir con estos requisitos (Se anexa una plantilla de Excel datos calculados):\n1.    Archivo de datos .csv o xlxs de indicadores calculados bajo la metodología que establecen el Plan y usando las guías de este documento. Cada archivo por indicador por sitio estará compuesto de dos únicas líneas de datos (ver sección # para más detalles de la estructura del archivo y cómo obtenerla, así como los valores asociados), actualizados y ordenados con las siguientes columnas:\na.    Poner columnas definidas con GFW\nb.    …\nPendiente agregar screenshot de columnas\nDescripción de Columnas que debe traer el documento\n2.    Metadatos del propietario, institución y proyecto generador de los datos en las siguientes columnas:\na.    Nombre propietario datos o PI\nb.    Nombre institución propietaria de datos\nc.     ORCID del propietario de datos o PI\nd.    Permiso de investigación\ne.    Donante\nf.      Restricción o estado de uso de datos (embargo, publicados, etc)\ng.    Si están publicados, brindar el DOI\n3.    Documentación asociada (protocolos de campo asociados, entre otros).\n4.    Carpera de logos de dueños o a quien se debe dar créditos de ellos, debe ser la misma afiliación con la que se firmó el MoU.\n5.    Archivo espacial (.shp) de su sitio de muestreo, nombrado con el mismo nombre con el que se reporta en la columna “area” de los datos",
+    "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "Formato archivos",
-      "formato calculados"
-    ]
-  },
-  {
-    "objectID": "formato_datos_calculados.html#b.-formato-si-entrega-los-indicadores-calculados",
-    "href": "formato_datos_calculados.html#b.-formato-si-entrega-los-indicadores-calculados",
-    "title": "Formato datos calculados",
-    "section": "",
-    "text": "Todo archivo de datos debe entregarse en formato .csv separado por punto y coma de preferencia, o en formato Excel alternativamente, y debe cumplir con estos requisitos (Se anexa una plantilla de Excel datos calculados):\n1.    Archivo de datos .csv o xlxs de indicadores calculados bajo la metodología que establecen el Plan y usando las guías de este documento. Cada archivo por indicador por sitio estará compuesto de dos únicas líneas de datos (ver sección # para más detalles de la estructura del archivo y cómo obtenerla, así como los valores asociados), actualizados y ordenados con las siguientes columnas:\na.    Poner columnas definidas con GFW\nb.    …\nPendiente agregar screenshot de columnas\nDescripción de Columnas que debe traer el documento\n2.    Metadatos del propietario, institución y proyecto generador de los datos en las siguientes columnas:\na.    Nombre propietario datos o PI\nb.    Nombre institución propietaria de datos\nc.     ORCID del propietario de datos o PI\nd.    Permiso de investigación\ne.    Donante\nf.      Restricción o estado de uso de datos (embargo, publicados, etc)\ng.    Si están publicados, brindar el DOI\n3.    Documentación asociada (protocolos de campo asociados, entre otros).\n4.    Carpera de logos de dueños o a quien se debe dar créditos de ellos, debe ser la misma afiliación con la que se firmó el MoU.\n5.    Archivo espacial (.shp) de su sitio de muestreo, nombrado con el mismo nombre con el que se reporta en la columna “area” de los datos",
-    "crumbs": [
-      "Formato archivos",
-      "formato calculados"
+      "e"
     ]
   }
 ]

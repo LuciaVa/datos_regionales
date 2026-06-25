@@ -29,17 +29,17 @@ website:
         href: calculo_indicadores.qmd
       - text: "Linea base"
         href: linea_base.qmd
-      - text: "a"
+      - text: "Clasificación indicadores"
         href: clasificar_indicadores.qmd
-      - text: "b"
+      - text: "Tendencia poblacional"
         href: tendencia_poblacional.qmd
-      - text: "c"
+      - text: "Sistema de envío de datos"
         href: sistema_envio.qmd
-      - text: "d"
+      - text: "Anexos"
         href: anexos.qmd
-      - text: "e"
+      - text: "Rsumen"
         href: summary.qmd
-      - text: "f"
+      - text: "Referencias"
         href: references.qmd
 
 bibliography: references.bib
