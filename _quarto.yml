@@ -8,7 +8,7 @@ website:
 
   sidebar:
     title: "Guía de cálculo de indicadores y categoría de estado y tendencias poblacionales."
-    logo: ./images/logo_migramar.png
+    logo: ./images/picture2.png
     pinned: true
     align: center
 
@@ -16,14 +16,15 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - text: "Alcance del documento"
+      - text: "Bienvenida"
         href: index.qmd
-      - intro.qmd
+      - text: "Alcance del documento"
+        href: intro.qmd
       - section: "Formato archivos"
         contents:
-          - text: "formato crudos"
+          - text: "Datos crudos"
             href: formato_datos_crudos.qmd      
-          - text: "formato calculados"
+          - text: "Indicadores calculados"
             href: formato_datos_calculados.qmd
       - text: "Calculo indicadores"
         href: calculo_indicadores.qmd
