@@ -6,7 +6,7 @@
     "section": "",
     "text": "Una vez firmado el acuerdo de datos, estos son los pasos a seguir:\n1.      Inscripción al proceso mediante Form que le solicitará:\na.  Rellenar hoja de metadatos del proveedor de datos (autoría, créditos, etc)\n\nb.  Confirmar lectura del manual de preparación de indicadores\n\nc.  Confirmar vía de provisión de datos:\n           i.      Indicador calculado\n           ii.      Datos crudos y que MigraMar calcula\n2. Carga de datos: MigraMar crea un vínculo para subir los datos crudos, o calculados\na.   Proveedor de datos sube:\n           i.      Los datos cumpliendo los requerimientos del Manual.\n           ii.      Shp files de sitio / área de monitoreo\n           iii.      Logos de su afiliación\n3. Revisión calidad de los datos: MigraMar revisa cumplimiento de requerimientos y se entra en un ciclo de revision con el proveedor hasta que se cumplan\n4. Subir datos a Marine Manager: MigraMar sube los datos calculados al archivo de datos de Global Fishing Watch.",
     "crumbs": [
-      "c"
+      "Sistema de envío de datos"
     ]
   },
   {
@@ -55,7 +55,7 @@
     "section": "",
     "text": "La categorización de los indicadores respecto a la línea base se hace con base en el AVP. Las siguientes tablas resumen la manera de clasificar e interpretar los indicadores con base en el AVP.\nTabla A de categorias de AVP según percentil - Aplicar para X, Y, Z.. indicadores\nTabla B de categorias de AVP según percentil - Aplicar para A, B,C, .. indicadores\nLa categorización se realizará de forma automática en la plataforma de GFW con base en el valor anual del indicador respecto a la línea base. Sin embargo, a continuación, se provee el código para que usted pueda obtener una previsualización y realizar la interpretación de previo y como respaldo en caso de que la plataforma muestre algo distinto.\nChunk de código señalando que como Anexo está el código completo.",
     "crumbs": [
-      "a"
+      "Clasificación indicadores"
     ]
   },
   {
@@ -65,7 +65,7 @@
     "section": "",
     "text": "Anexo 1. Plantilla de datos calculados\n\n\nAnexo 2. Plantilla de datos crudos\n\n\nAnexo 3. Rmd para cálculos: línea base, percentiles, indicadores\nponer hipervínculos (estará en GitHub)",
     "crumbs": [
-      "d"
+      "Anexos"
     ]
   },
   {
@@ -147,7 +147,7 @@
     "section": "",
     "text": "References",
     "crumbs": [
-      "f"
+      "Referencias"
     ]
   },
   {
@@ -157,7 +157,7 @@
     "section": "",
     "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "e"
+      "Rsumen"
     ]
   }
 ]
