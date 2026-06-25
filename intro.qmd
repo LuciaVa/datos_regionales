@@ -26,7 +26,13 @@ Interpretación final
 
 El presente documento se limita a guiar a los generadores de datos paso a paso para:
 
-**(1)** Preparar los datos en el formato inicial necesario **(2)** Calcular los indicadores según la metodología del Plan **(3)** Preparar los datos asociados a la forma requerida para la plataforma de visualización Marine Manager **(4)** Pasos para entregar los datos.
+**(1)** Preparar los datos en el formato inicial necesario
+
+**(2)** Calcular los indicadores según la metodología del Plan
+
+**(3)** Preparar los datos asociados a la forma requerida para la plataforma de visualización Marine Manager
+
+**(4)** Pasos para entregar los datos.
 
 **Nota importante:** Se encuentra fuera del alance de este documento, revisar la calidad y validez de sus datos y este documento asume que los colectores de datos y responsables de los indicadores deben velar por el cumplimiento estandarizado y riguroso de las metodologías de monitoreo establecidas en el Plan.
 
